@@ -3,4 +3,4 @@
 
  criei esse novo repositorio  
 já possuia conhecimento em git/github
-mas sempre bom reforçar o conhecimento.
+mas sempre bom reforcar o conhecimento.

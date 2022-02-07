@@ -1,2 +1,2 @@
 #sobre o modulo
- nesse modulo pode relembrar os conceitos da lógica de programação
+ nesse modulo pode relembrar os conceitos da logica de programacao
